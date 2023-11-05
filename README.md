@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi 👋, I'm Zhiyuan Peng (V4yne)
 
-<!--
-**V4yne/V4yne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer from China
+* 🔭 I’m **second-year master** student at [USTC](https://ustc.edu.cn/)
+* 📝 I regularly write articles on [V4yne.site](https://www.v4yne.site/)
+* 📫 If you want to contact me [Email](mailto:zhufujun@mail.ustc.edu.cn)
 
-Here are some ideas to get you started:
+### Experience
+* Interned：
+  * @ByteDance(NUVERSE)
+  * @Metabit Trading(Trading Platform)
+* Algorithm：ICPC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+* cpp > python ≈ go
