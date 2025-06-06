@@ -9,6 +9,7 @@
 * Interned：
   * @ByteDance(NUVERSE)
   * @Metabit Trading(Trading Platform)
+  * @ByteDance(Ads Infra)
 * Algorithm：ICPC
 
 ### Tech Stack
