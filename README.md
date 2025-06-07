@@ -9,10 +9,10 @@
 
 ### Experience
 * Interned:
-  * @ByteDance (NUVERSE)
+  * @Minghong Investment
   * @Metabit Trading (Trading Platform)
   * @ByteDance (Ads Infra)
-  * @Minghong Investment
+  * @ByteDance (NUVERSE)
 * Now working at **Minghong Investment**
 * Algorithm: **ICPC**
   * 🥇 Asia Invitational Contest Gold Medal
@@ -20,4 +20,5 @@
   * 🧠 Problem Setter for several **ACM Provincial Contests**
 
 ### Tech Stack
-* cpp > python ≈ go
+* cpp, python
+* ⚙️ Experienced in **performance optimization**, including low-latency programming and memory efficiency
